@@ -1,5 +1,7 @@
 <?php
 
+error_reporting(E_ERROR);
+
 // https://github.com/DonVictor/PHP-Dijkstra
 require_once('Dijkstra.php');
 

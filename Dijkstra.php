@@ -57,7 +57,7 @@ class Graph {
 			$visited[$u] = True;
 			
 			if (!isset($nodes[$u])) {
-				print "WARNING: '$u' is not found in the node list\n";
+				// print "WARNING: '$u' is not found in the node list\n";
 			}
 			
 			foreach($nodes[$u] as $edge) {
