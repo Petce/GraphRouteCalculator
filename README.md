@@ -9,7 +9,7 @@ __1. Start the program with (must be a valid CSV in the proper format)__
 
 Example
 
-        $ php index.php text.csv
+        $ php index.php test.csv
 
 __2. Search for routes using the following format (From and To are case sensative and Latency must be an integer)__
 
