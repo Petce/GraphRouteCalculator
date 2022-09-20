@@ -32,4 +32,4 @@ __3. Quit the program with 'QUIT'__
 
 In order to speed up the development process for this experiment I have imported an implementation of Dijkstra's shortest path-algorithm.
 
-The Alogorithms source can be found here https://github.com/DonVictor/PHP-Dijkstra
+The Algorithms source can be found here https://github.com/DonVictor/PHP-Dijkstra
